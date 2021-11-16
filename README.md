@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaViBiS
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning V
 - 💞️ I'm looking to collaborate on with all.
 - 📫 How to reach me telegram:@ZaViBiS.
