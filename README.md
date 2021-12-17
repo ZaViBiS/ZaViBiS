@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ZaViBiS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning V
-- 💞️ I'm looking to collaborate on with all.
-- 📫 How to reach me telegram:@ZaViBiS.
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaViBiS&theme=monokai)
